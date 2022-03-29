@@ -6,5 +6,9 @@
     {   
         "text": "List card",
         "link": "https://list-card.vercel.app/"
+    },
+    {   
+        "text": "Snake cuy",
+        "link": "https://snakecuy.vercel.app/"
     }
 ]
